@@ -1,0 +1,14 @@
+# MasterCard Internet Gateway Service (MIGS) Gateway for ActiveMerchant 
+
+the gateway uses mastercard migs virtual payment client for payments. Requests are sent by POST over https.
+
+Gateways supports:
+
+1. Purchase
+2. Refund/Credit
+3. Query past payment requests
+
+TODO LIST:
+
+1. Authorize
+2. Capture
